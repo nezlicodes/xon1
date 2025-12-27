@@ -1,0 +1,37 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/icon": "1.10.3",
+    "@nuxt/image": "2.0.0",
+    "@nuxtjs/i18n": "10.2.1",
+    "@nuxtjs/robots": "^5.6.7",
+    "@nuxtjs/sitemap": "^7.3.0",
+    "@nuxtjs/supabase": "1.4.6",
+    "@nuxtjs/tailwindcss": "6.13.1",
+    "@vueup/vue-quill": "^1.2.0",
+    "aos": "^2.3.4",
+    "nuxt": "^3.15.4",
+    "nuxt-site-config": "^3.2.14",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@oxc-minify/binding-darwin-arm64": "^0.105.0",
+    "@oxc-parser/binding-darwin-arm64": "^0.105.0",
+    "@oxc-resolver/binding-darwin-arm64": "^11.16.0",
+    "@oxc-transform/binding-darwin-arm64": "^0.105.0",
+    "nuxt-lodash": "^2.5.3",
+    "nuxt-schema-org": "5.0.5",
+    "nuxt-simple-sitemap": "^3.4.0",
+    "sharp": "^0.34.5"
+  }
+}

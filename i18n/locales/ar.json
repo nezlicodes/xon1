@@ -1,0 +1,242 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "products": "المنتجات",
+    "categories": "الفئات",
+    "contact": "اتصل بنا",
+    "search": "بحث",
+    "cart": "السلة",
+    "checkout": "الدفع",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "التسجيل",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "view": "عرض",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "warning": "تحذير",
+    "info": "معلومات",
+    "confirm": "تأكيد",
+    "yes": "نعم",
+    "no": "لا",
+    "language": "اللغة"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "shop": "المتجر",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "faq": "الأسئلة الشائعة"
+  },
+  "products": {
+    "title": "المنتجات",
+    "featured": "المنتجات المميزة",
+    "new": "المنتجات الجديدة",
+    "popular": "المنتجات الشائعة",
+    "price": "السعر",
+    "addToCart": "أضف إلى السلة",
+    "viewDetails": "عرض التفاصيل",
+    "inStock": "متوفر",
+    "outOfStock": "غير متوفر",
+    "description": "الوصف",
+    "specifications": "المواصفات",
+    "reviews": "التقييمات"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلة التسوق فارغة",
+    "subtotal": "المجموع الفرعي",
+    "total": "المجموع الكلي",
+    "continueShopping": "متابعة التسوق",
+    "proceedToCheckout": "إتمام الطلب",
+    "remove": "إزالة",
+    "quantity": "الكمية"
+  },
+  "footer": {
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "shipping": "سياسة الشحن",
+    "return": "سياسة الإرجاع",
+    "technologies": "التقنيات",
+    "policies": "السياسات",
+    "followUs": "تابعنا",
+    "copyright": "جميع الحقوق محفوظة"
+  },
+  "policies": {
+    "shipping": {
+      "title": "سياسة الشحن",
+      "subtitle": "تعرف على شروط الشحن لدينا"
+    },
+    "return": {
+      "title": "سياسة الإرجاع",
+      "subtitle": "كل ما تحتاج لمعرفته حول شروط الإرجاع لدينا"
+    },
+    "privacy": {
+      "title": "سياسة الخصوصية",
+      "subtitle": "كيف نحمي بياناتك"
+    },
+    "terms": {
+      "title": "شروط الخدمة",
+      "subtitle": "شروطنا وأحكامنا"
+    }
+  },
+  "admin": {
+    "dashboard": "لوحة التحكم",
+    "products": "المنتجات",
+    "categories": "الفئات",
+    "orders": "الطلبات",
+    "customers": "العملاء",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج"
+  },
+  "checkout": {
+    "title": "إتمام الطلب",
+    "subtitle": "أكمل معلومات طلبك",
+    "personalInfo": "المعلومات الشخصية",
+    "firstName": "الاسم الأول",
+    "firstNamePlaceholder": "أدخل اسمك الأول",
+    "lastName": "اللقب",
+    "lastNamePlaceholder": "أدخل لقبك",
+    "phoneNumber": "رقم الهاتف",
+    "phoneNumberPlaceholder": "0555123456",
+    "phoneNumberHint": "الصيغة: 10 أرقام (مثال: 0555123456)",
+    "productInfo": "معلومات المنتج",
+    "productName": "اسم المنتج",
+    "productNamePlaceholder": "أدخل اسم المنتج",
+    "quantity": "الكمية",
+    "quantityPlaceholder": "1",
+    "shippingInfo": "معلومات التوصيل",
+    "wilaya": "الولاية",
+    "selectWilaya": "اختر ولاية",
+    "commune": "البلدية",
+    "selectCommune": "اختر بلدية",
+    "loadingCommunes": "جاري تحميل البلديات...",
+    "additionalInfo": "معلومات إضافية",
+    "message": "رسالة (اختياري)",
+    "messagePlaceholder": "أي تعليمات أو ملاحظات خاصة...",
+    "submit": "تأكيد الطلب",
+    "submitting": "جاري الإرسال...",
+    "success": {
+      "title": "تم تقديم الطلب بنجاح!",
+      "message": "شكراً لطلبك. سنتصل بك قريباً لتأكيد التفاصيل.",
+      "orderId": "رقم الطلب",
+      "newOrder": "تقديم طلب آخر"
+    },
+    "errors": {
+      "locationRequired": "يرجى اختيار كل من الولاية والبلدية",
+      "submissionFailed": "فشل في إرسال الطلب. يرجى المحاولة مرة أخرى.",
+      "unknown": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى."
+    }
+  },
+  "productsPage": {
+    "videoUnsupported": "متصفحك لا يدعم تشغيل الفيديو.",
+    "imagesSingular": "صورة",
+    "imagesPlural": "صور",
+    "videosSingular": "فيديو",
+    "videosPlural": "فيديوهات",
+    "description": "الوصف",
+    "selectAllOptions": "يرجى اختيار جميع الخيارات",
+    "quantity": "الكمية",
+    "addToCart": "أضف إلى السلة",
+    "itemsSingular": "عنصر",
+    "itemsPlural": "عناصر",
+    "availableSingular": "متاح",
+    "availablePlural": "متاحة",
+    "details": "التفاصيل",
+    "reference": "المرجع",
+    "category": "الفئة",
+    "notFoundTitle": "المنتج غير موجود",
+    "notFoundDesc": "المنتج الذي تبحث عنه غير متوفر.",
+    "backToProducts": "العودة إلى المنتجات",
+    "addedToCart": "تمت الإضافة إلى السلة",
+    "addedSuccessfully": "تمت إضافة المنتج بنجاح"
+  },
+  "home": {
+    "viewAll": "عرض الكل"
+  },
+  "categoriesPage": {
+    "titleFallback": "الفئة",
+    "descriptionFallback": "اكتشف منتجاتنا في هذه الفئة.",
+    "notFoundTitle": "الفئة غير موجودة",
+    "notFoundDesc": "الفئة التي تبحث عنها غير متوفرة.",
+    "viewAllProducts": "عرض جميع المنتجات",
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "products": "المنتجات",
+      "categories": "الفئات"
+    },
+    "products": "منتجات",
+    "filters": "مرشحات",
+    "reset": "إعادة تعيين",
+    "price": "السعر",
+    "min": "الحد الأدنى",
+    "max": "الحد الأقصى",
+    "clearFilters": "مسح المرشحات",
+    "allProducts": "جميع المنتجات",
+    "resultSingular": "نتيجة",
+    "resultsPlural": "نتائج",
+    "viewProduct": "عرض المنتج",
+    "inStock": "متوفر",
+    "outOfStock": "غير متوفر",
+    "emptyTitle": "لا توجد منتجات متاحة",
+    "emptyDesc": "لا توجد منتجات مطابقة لمعاييرك."
+  },
+  "contact": {
+    "sectionLabel": "اتصل بنا",
+    "title": "تواصل معنا",
+    "subtitle": "معلومات الاتصال",
+    "description": "نحن هنا لمساعدتك. لا تتردد في الاتصال بنا لأي استفسارات.",
+    "form": {
+      "name": "الاسم الكامل",
+      "namePlaceholder": "اسمك",
+      "nameRequired": "الاسم مطلوب",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "your{'@'}email.com",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "emailInvalid": "البريد الإلكتروني غير صالح",
+      "phone": "الهاتف",
+      "phoneOptional": "اختياري",
+      "phonePlaceholder": "0555 12 34 56",
+      "phoneInvalid": "رقم الهاتف غير صالح",
+      "subject": "الموضوع",
+      "subjectPlaceholder": "اختر موضوعاً",
+      "subjectRequired": "الموضوع مطلوب",
+      "subjectGeneral": "سؤال عام",
+      "subjectOrder": "سؤال حول الطلب",
+      "subjectSupport": "الدعم الفني",
+      "subjectOther": "أخرى",
+      "message": "الرسالة",
+      "messagePlaceholder": "كيف يمكننا مساعدتك؟",
+      "messageRequired": "الرسالة مطلوبة",
+      "messageMinLength": "يجب أن تحتوي الرسالة على 10 أحرف على الأقل",
+      "submit": "إرسال الرسالة",
+      "submitting": "جاري الإرسال..."
+    },
+    "info": {
+      "callUs": "اتصل بنا",
+      "emailUs": "راسلنا عبر البريد",
+      "visitUs": "قم بزيارتنا"
+    },
+    "social": {
+      "followUs": "تابعنا"
+    },
+    "success": {
+      "title": "تم إرسال الرسالة بنجاح!",
+      "message": "سنرد عليك في أقرب وقت ممكن."
+    }
+  }
+}

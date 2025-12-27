@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f5f8fa" rx="8" ry="8"/>
+  
+  <!-- Grid pattern -->
+  <g opacity="0.1">
+    <path d="M0 50 H400" stroke="#000" stroke-width="1"/>
+    <path d="M0 100 H400" stroke="#000" stroke-width="1"/>
+    <path d="M0 150 H400" stroke="#000" stroke-width="1"/>
+    <path d="M0 200 H400" stroke="#000" stroke-width="1"/>
+    <path d="M0 250 H400" stroke="#000" stroke-width="1"/>
+    <path d="M50 0 V300" stroke="#000" stroke-width="1"/>
+    <path d="M100 0 V300" stroke="#000" stroke-width="1"/>
+    <path d="M150 0 V300" stroke="#000" stroke-width="1"/>
+    <path d="M200 0 V300" stroke="#000" stroke-width="1"/>
+    <path d="M250 0 V300" stroke="#000" stroke-width="1"/>
+    <path d="M300 0 V300" stroke="#000" stroke-width="1"/>
+    <path d="M350 0 V300" stroke="#000" stroke-width="1"/>
+  </g>
+  
+  <!-- Category icons -->
+  <g>
+    <!-- Icon 1 -->
+    <rect x="80" y="70" width="60" height="60" rx="5" ry="5" fill="#e3f2fd" stroke="#90caf9" stroke-width="2"/>
+    <circle cx="110" cy="100" r="20" fill="none" stroke="#64b5f6" stroke-width="2"/>
+    <path d="M100 100 H120 M110 90 V110" stroke="#42a5f5" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Icon 2 -->
+    <rect x="170" y="70" width="60" height="60" rx="5" ry="5" fill="#e8f5e9" stroke="#a5d6a7" stroke-width="2"/>
+    <path d="M185 100 L200 85 L215 100 L200 115 Z" fill="none" stroke="#66bb6a" stroke-width="2"/>
+    <circle cx="200" cy="100" r="8" fill="#4caf50"/>
+    
+    <!-- Icon 3 -->
+    <rect x="260" y="70" width="60" height="60" rx="5" ry="5" fill="#fff3e0" stroke="#ffcc80" stroke-width="2"/>
+    <path d="M280 90 H300 M280 100 H300 M280 110 H300" stroke="#ffa726" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Category labels -->
+  <rect x="80" y="140" width="60" height="10" rx="2" ry="2" fill="#bbdefb"/>
+  <rect x="170" y="140" width="60" height="10" rx="2" ry="2" fill="#c8e6c9"/>
+  <rect x="260" y="140" width="60" height="10" rx="2" ry="2" fill="#ffe0b2"/>
+  
+  <!-- Main category title -->
+  <rect x="100" y="180" width="200" height="20" rx="3" ry="3" fill="#e0e0e0"/>
+  
+  <!-- Description lines -->
+  <rect x="130" y="210" width="140" height="8" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="120" y="225" width="160" height="8" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="150" y="240" width="100" height="8" rx="2" ry="2" fill="#eeeeee"/>
+  
+  <!-- Watermark text -->
+  <text x="200" y="275" font-family="Arial, sans-serif" font-size="12" fill="#9e9e9e" text-anchor="middle">Category Placeholder</text>
+</svg>

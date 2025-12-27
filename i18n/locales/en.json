@@ -1,0 +1,242 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "categories": "Categories",
+    "contact": "Contact",
+    "search": "Search",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "profile": "Profile",
+    "settings": "Settings",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Info",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "language": "Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "faq": "FAQ"
+  },
+  "products": {
+    "title": "Products",
+    "featured": "Featured Products",
+    "new": "New Products",
+    "popular": "Popular Products",
+    "price": "Price",
+    "addToCart": "Add to Cart",
+    "viewDetails": "View Details",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "description": "Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "continueShopping": "Continue Shopping",
+    "proceedToCheckout": "Proceed to Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "shipping": "Shipping Policy",
+    "return": "Return Policy",
+    "technologies": "Technologies",
+    "policies": "Policies",
+    "followUs": "Follow Us",
+    "copyright": "All rights reserved"
+  },
+  "policies": {
+    "shipping": {
+      "title": "Shipping Policy",
+      "subtitle": "Learn about our shipping terms"
+    },
+    "return": {
+      "title": "Return Policy",
+      "subtitle": "Everything you need to know about our return conditions"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "subtitle": "How we protect your data"
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "subtitle": "Our terms and conditions"
+    }
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "categories": "Categories",
+    "orders": "Orders",
+    "customers": "Customers",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Complete your order information",
+    "personalInfo": "Personal Information",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter your last name",
+    "phoneNumber": "Phone Number",
+    "phoneNumberPlaceholder": "0555123456",
+    "phoneNumberHint": "Format: 10 digits (e.g., 0555123456)",
+    "productInfo": "Product Information",
+    "productName": "Product Name",
+    "productNamePlaceholder": "Enter product name",
+    "quantity": "Quantity",
+    "quantityPlaceholder": "1",
+    "shippingInfo": "Shipping Information",
+    "wilaya": "Wilaya",
+    "selectWilaya": "Select a wilaya",
+    "commune": "Commune",
+    "selectCommune": "Select a commune",
+    "loadingCommunes": "Loading communes...",
+    "additionalInfo": "Additional Information",
+    "message": "Message (Optional)",
+    "messagePlaceholder": "Any special instructions or notes...",
+    "submit": "Place Order",
+    "submitting": "Submitting...",
+    "success": {
+      "title": "Order Placed Successfully!",
+      "message": "Thank you for your order. We will contact you shortly to confirm the details.",
+      "orderId": "Order ID",
+      "newOrder": "Place Another Order"
+    },
+    "errors": {
+      "locationRequired": "Please select both wilaya and commune",
+      "submissionFailed": "Failed to submit order. Please try again.",
+      "unknown": "An unexpected error occurred. Please try again."
+    }
+  },
+  "productsPage": {
+    "videoUnsupported": "Your browser does not support video playback.",
+    "imagesSingular": "image",
+    "imagesPlural": "images",
+    "videosSingular": "video",
+    "videosPlural": "videos",
+    "description": "Description",
+    "selectAllOptions": "Please select all options",
+    "quantity": "Quantity",
+    "addToCart": "Add to cart",
+    "itemsSingular": "item",
+    "itemsPlural": "items",
+    "availableSingular": "available",
+    "availablePlural": "available",
+    "details": "Details",
+    "reference": "Reference",
+    "category": "Category",
+    "notFoundTitle": "Product not found",
+    "notFoundDesc": "The product you are looking for does not exist.",
+    "backToProducts": "Back to products",
+    "addedToCart": "Added to cart",
+    "addedSuccessfully": "Product added successfully"
+  },
+  "home": {
+    "viewAll": "View all"
+  },
+  "categoriesPage": {
+    "titleFallback": "Category",
+    "descriptionFallback": "Discover our products in this category.",
+    "notFoundTitle": "Category not found",
+    "notFoundDesc": "The category you are looking for does not exist.",
+    "viewAllProducts": "View all products",
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Products",
+      "categories": "Categories"
+    },
+    "products": "products",
+    "filters": "Filters",
+    "reset": "Reset",
+    "price": "Price",
+    "min": "Min",
+    "max": "Max",
+    "clearFilters": "Clear filters",
+    "allProducts": "All products",
+    "resultSingular": "result",
+    "resultsPlural": "results",
+    "viewProduct": "View product",
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "emptyTitle": "No products available",
+    "emptyDesc": "No products match your criteria."
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "title": "Get in Touch",
+    "subtitle": "Contact Information",
+    "description": "We're here to help. Don't hesitate to contact us for any questions.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your name",
+      "nameRequired": "Name is required",
+      "email": "Email",
+      "emailPlaceholder": "your{'@'}email.com",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email address",
+      "phone": "Phone",
+      "phoneOptional": "Optional",
+      "phonePlaceholder": "+213 555 12 34 56",
+      "phoneInvalid": "Invalid phone number",
+      "subject": "Subject",
+      "subjectPlaceholder": "Select a subject",
+      "subjectRequired": "Subject is required",
+      "subjectGeneral": "General Question",
+      "subjectOrder": "Order Question",
+      "subjectSupport": "Technical Support",
+      "subjectOther": "Other",
+      "message": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "messageRequired": "Message is required",
+      "messageMinLength": "Message must be at least 10 characters",
+      "submit": "Send Message",
+      "submitting": "Sending..."
+    },
+    "info": {
+      "callUs": "Call us",
+      "emailUs": "Email us",
+      "visitUs": "Visit us"
+    },
+    "social": {
+      "followUs": "Follow Us"
+    },
+    "success": {
+      "title": "Message sent successfully!",
+      "message": "We will get back to you as soon as possible."
+    }
+  }
+}
